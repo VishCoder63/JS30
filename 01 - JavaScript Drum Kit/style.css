@@ -39,7 +39,11 @@ html {
   box-shadow: 0 0 1rem #ffc600;
 }
 
-kbd {
+.key > div {
+  display: block;
+  font-size: 4rem;
+}
+kbd{
   display: block;
   font-size: 4rem;
 }
